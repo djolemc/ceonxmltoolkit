@@ -21,6 +21,8 @@ body {
     background-color: white;
 }
 
+
+
 h2 {
     margin-top: 40px;
     text-align: center;
@@ -55,6 +57,11 @@ h3 {
 
 }
 
+.sci {
+    padding: 23px 0;
+    font-size: 30px;
+}
+
 a {
     text-decoration: none;
 }
@@ -62,5 +69,12 @@ a {
 #archive_img {
     width: 180px;
     margin-left: -10px;
-    margin-bottom: 20px;
+    margin-bottom: -20px;
+}
+
+#grobid {
+    position: relative;
+    font-size: 25px;
+    /*background-color: #6a9eb8;*/
+
 }
